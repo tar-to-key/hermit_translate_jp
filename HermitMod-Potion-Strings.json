@@ -1,0 +1,14 @@
+{
+"hermit:Tonic": {
+        "NAME": "トニック",
+        "DESCRIPTIONS": ["#y不屈 #b", " を得る。"]
+},
+"hermit:BlackBile": {
+        "NAME": "黒胆汁",
+        "DESCRIPTIONS": ["#y傷 #b", " を与える。"]
+},
+"hermit:Eclipse": {
+        "NAME": "虚無の液体",
+        "DESCRIPTIONS": ["#y廃棄 から #b", " 枚手札に加える。このターンそれらのコストは #b0 になる。"," 枚手札に加える。このターンそれらのコストは #b0 になる。"]
+}
+}

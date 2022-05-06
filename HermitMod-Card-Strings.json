@@ -1,0 +1,329 @@
+{
+  "hermit:Strike_Hermit": {
+    "NAME": "ストライク",
+    "DESCRIPTION": "!D! ダメージを与える"
+  },
+  "hermit:Defend_Hermit": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る"
+  },
+  "hermit:Snapshot": {
+    "NAME": "スナップショット",
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : コストが 0 になる"
+  },
+  "hermit:Desperado": {
+    "NAME": "デスペラード",
+    "DESCRIPTION": "!D! ダメージを与える NL 脆弱化 !M! を得る"
+  },
+  "hermit:Headshot": {
+    "NAME": "ヘッドショット",
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : 与える値が NL 2 倍になる"
+  },
+  "hermit:Quickdraw": {
+    "NAME": "早撃ち",
+    "DESCRIPTION": "!D! ダメージを与える NL !M! 枚引く NL 次のターン開始時 NL 引く枚数が1枚減る"
+  },
+  "hermit:WideOpen": {
+    "NAME": "隙だらけ",
+    "DESCRIPTION": "!D! ダメージを与える NL 弱体 !M! を与える"
+  },
+  "hermit:Covet": {
+    "NAME": "切望",
+    "DESCRIPTION": "手札から 1 枚 廃棄 して NL 1 枚引く NL 呪い を 廃棄 した場合 NL さらに !M! 枚引く",
+    "UPGRADE_DESCRIPTION": "手札から 1 枚 廃棄 して NL 1 枚引く NL 呪い か 状態異常 を NL 廃棄 した場合 NL さらに !M! 枚引く"
+  },
+  "hermit:HighCaliber": {
+    "NAME": "大口径",
+    "DESCRIPTION": "!D! ダメージを与える NL *ストライク を 1 枚 NL 捨て札に加える NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える NL *ストライク+ を 1 枚 NL 捨て札に加える NL 廃棄"
+  },
+  "hermit:BodyArmor": {
+    "NAME": "ボディアーマー",
+    "DESCRIPTION": "!B! ブロック を得る NL *防御 を 1 枚 NL 捨て札に加える NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る NL *防御+ を 1 枚 NL 捨て札に加える NL 廃棄"
+  },
+  "hermit:Snipe": {
+    "NAME": "狙撃",
+    "DESCRIPTION": "hermit:集中 を得る NL このターンの間 NL 筋力 !M! を得る"
+  },
+  "hermit:CalledShot": {
+    "NAME": "予告ショット",
+    "DESCRIPTION": "手札の枚数だけ NL ダメージを与える NL hermit:会心 : !M! 枚引く",
+    "UPGRADE_DESCRIPTION": " NL ( !D! ダメージ)"
+  },
+  "hermit:Dissolve": {
+    "NAME": "分解",
+    "DESCRIPTION": "捨て札 1 枚につき NL !M! ブロックを得る NL *腐敗 を 1 枚 NL 捨て札に加える",
+    "UPGRADE_DESCRIPTION": " NL ( !B! ブロック )"
+  },
+  "hermit:BlackWind": {
+    "NAME": "ブラックウィンド",
+    "DESCRIPTION": "エセリアル NL 自身の失っているHP NL に等しいダメージ NL を与える NL 廃棄",
+    "UPGRADE_DESCRIPTION": " NL ( !D! ダメージ)"
+  },
+  "hermit:Purgatory": {
+    "NAME": "煉獄",
+    "DESCRIPTION": "エセリアル NL 敵全体に NL !D! ダメージを与える",
+    "UPGRADE_DESCRIPTION": "敵全体に NL !D! ダメージを与える"
+  },
+  "hermit:ShadowCloak": {
+    "NAME": "影の衣",
+    "DESCRIPTION": "呪い を引くたび NL !M! ブロック を得る"
+  },
+  "hermit:FatalDesire": {
+    "NAME": "致命的欲求",
+    "DESCRIPTION": "ターン開始時 NL カードを 2 枚引いて NL *負傷 を 1 枚 NL 手札に加える",
+    "UPGRADE_DESCRIPTION": "天賦 NL ターン開始時 NL カードを 2 枚引いて NL *負傷 を 1 枚 NL 手札に加える"
+  },
+  "hermit:Gambit": {
+    "NAME": "妙策",
+    "DESCRIPTION": "ランダムに NL 捨て札のアタックを NL !M! 枚手札に加える NL 廃棄"
+  },
+  "hermit:Roughhouse": {
+    "NAME": "大騒ぎ",
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : NL !B! ブロック を得る"
+  },
+  "hermit:Malice": {
+    "NAME": "悪意",
+    "DESCRIPTION": "手札 1 枚 廃棄 して NL !D! ダメージを与える NL 呪い を 廃棄 した場合 NL 代わりに敵全体に NL !D! ダメージを与える"
+  },
+  "hermit:Deadeye": {
+    "NAME": "デッドアイ",
+    "DESCRIPTION": "!D! ダメージを与える NL 筋力 1 を得る NL 廃棄 NL hermit:会心 : 廃棄 されない"
+  },
+  "hermit:GhostlyPresence": {
+    "NAME": "霊的存在",
+    "DESCRIPTION": "!B! ブロックを得る NL hermit:会心 : 敵全体に NL 脱力 !M! を与える"
+  },
+  "hermit:Adapt": {
+    "NAME": "適応",
+    "DESCRIPTION": "ターン終了時 NL 2 枚まで 廃棄 できる NL 廃棄 1 枚につき NL !M! ブロックを得る"
+  },
+  "hermit:Dive": {
+    "NAME": "ダイブ",
+    "DESCRIPTION": "!B! ブロック を得る NL hermit:会心 : NL *プレートアーマー !M! NL を得る"
+  },
+  "hermit:FlashPowder": {
+    "NAME": "フラッシュパウダー",
+    "DESCRIPTION": "!B! ブロック を得る NL 敵全体が 筋力 !M! を失う NL 廃棄"
+  },
+  "hermit:Roulette": {
+    "NAME": "ルーレット",
+    "DESCRIPTION": "ランダムな敵に NL !D! ダメージを与える NL 手札を全て捨てる NL 捨てた枚数だけ引く"
+  },
+  "hermit:Midnight": {
+    "NAME": "真夜中",
+    "DESCRIPTION": "エセリアル NL !B! ブロック を得る NL *迫りくる破滅 を 1 枚手札に加える",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る NL *迫りくる破滅 を 1 枚手札に加える"
+  },
+  "hermit:Glare": {
+    "NAME": "にらみつけ",
+    "DESCRIPTION": "脱力 と 弱体 を !M! 与える",
+    "UPGRADE_DESCRIPTION": "脱力 と 弱体 を !M! 与える NL hermit:傷 !hermit:SecondMagic! を与える"
+  },
+  "hermit:TakeCover": {
+    "NAME": "避難",
+    "DESCRIPTION": "*防御 を X 枚 NL 手札に加える NL この戦闘中それらの NL コストが 0 になる NL 廃棄",
+    "UPGRADE_DESCRIPTION": "*防御+ を X 枚 NL 手札に加える NL この戦闘中それらの NL コストが 0 になる NL 廃棄"
+  },
+  "hermit:Misfire": {
+    "NAME": "不発",
+    "DESCRIPTION": "ランダムな敵に NL !D! ダメージを与える NL *不器用 を 1 枚 NL 山札に加える"
+  },
+  "hermit:SprayPray": {
+    "NAME": "スプレー&プレー",
+    "DESCRIPTION": "ランダムな敵に NL !D! ダメージを NL 3 回与える NL *疑念 を 1 枚 NL 山札に加える"
+  },
+  "hermit:Scavenge": {
+    "NAME": "ゴミ漁り",
+    "DESCRIPTION": "*プレートアーマー !M! NL を得る NL hermit:会心 : NL !hermit:SecondMagic! ゴールドを得る NL 廃棄"
+  },
+  "hermit:ImpendingDoom": {
+    "NAME": "迫りくる破滅",
+    "DESCRIPTION": "使用不可 NL hermit:会心 : ターン終了時 NL すべてに NL 13 ダメージを与える"
+  },
+  "hermit:MementoCard": {
+    "NAME": "形見",
+    "DESCRIPTION": "保留 NL すべてに NL 弱体 !M! を与える"
+  },
+  "hermit:Shortfuse": {
+    "NAME": "短気",
+    "DESCRIPTION": "!D! ダメージを与える NL このカードのコストは NL このターンプレイした NL *ストライク と *防御 の数 NL だけ減少する"
+  },
+  "hermit:Grudge": {
+    "NAME": "怨念",
+    "DESCRIPTION": "敵全体に NL !D! ダメージを与える NL 所持する 呪い の数だけ NL 与える値が !M! 増える"
+  },
+  "hermit:Spite": {
+    "NAME": "敵意",
+    "DESCRIPTION": "!D! ダメージを NL 2 回与える NL 山札から 呪い を NL !M! 枚引く"
+  },
+  "hermit:Manifest": {
+    "NAME": "マニフェスト",
+    "DESCRIPTION": "!B! ブロックを得る NL 山札から 呪い を NL !M! 枚引く"
+  },
+  "hermit:Feint": {
+    "NAME": "フェイント",
+    "DESCRIPTION": "!B! ブロックを得る NL 敵全体に hermit:傷 !M! を与える"
+  },
+  "hermit:LowProfile": {
+    "NAME": "低姿勢",
+    "DESCRIPTION": "!B! ブロックを得る NL 自身のデバフの数だけ NL 得られる値が !M! 増える"
+  },
+  "hermit:Horror": {
+    "NAME": "ホラー",
+    "DESCRIPTION": "敵全体に hermit:傷 !M! を与える NL このターン hermit:傷 の効果 NL が解除されない"
+  },
+  "hermit:NoHoldsBarred": {
+    "NAME": "無制限",
+    "DESCRIPTION": "敵全体に NL !D! ダメージを与え NL hermit:傷 3 を与える NL 次のターン得られる NL エナジーが 1 減少する"
+  },
+  "hermit:Cheat": {
+    "NAME": "いかさま",
+    "DESCRIPTION": "山札の上 !M! 枚から NL 1 枚をプレイする NL hermit:会心 : プレイする NL カードも *会心 する"
+  },
+  "hermit:Vantage": {
+    "NAME": "高所",
+    "DESCRIPTION": "!B! ブロック を得る NL hermit:会心 : 手札の NL ランダムなカード NL !M! 枚を戦闘終了まで NL アップグレード する"
+  },
+  "hermit:Brawl": {
+    "NAME": "乱闘",
+    "DESCRIPTION": "ターン開始時 NL 敵全体に hermit:傷 !M! を与える"
+  },
+  "hermit:Combo": {
+    "NAME": "コンボ",
+    "DESCRIPTION": "hermit:会心 を発動させるたび NL この戦闘中 *会心 を持つ NL ランダムなカードを NL 1 枚手札に加える"
+  },
+  "hermit:BigShot": {
+    "NAME": "煙吹く銃身",
+    "DESCRIPTION": "hermit:会心 を発動させるたび NL 次のアタックの NL 与える値が !M! 増える"
+  },
+  "hermit:OverwhelmingPower": {
+    "NAME": "圧倒的な力",
+    "DESCRIPTION": "エナジーを 3 得る NL 3 枚引く NL エナジーが無いまま NL ターン終了するたび NL HPを !M! 失う"
+  },
+  "hermit:Maintenance": {
+    "NAME": "メンテナンス",
+    "DESCRIPTION": "すべての *ストライク と NL *防御 を戦闘終了まで NL アップグレード する NL この効果では何度でも NL アップグレード できる"
+  },
+  "hermit:EternalForm": {
+    "NAME": "永久化",
+    "DESCRIPTION": "ターン毎の最初に NL プレイするカード !M! 枚 NL のコストが 0 になる NL ターン開始時エナジー NL が得られなくなる"
+  },
+  "hermit:FullyLoaded": {
+    "NAME": "フルロード",
+    "DESCRIPTION": "山札からすべての NL *ストライク と *防御 NL を引く NL 廃棄"
+  },
+  "hermit:Gestalt": {
+    "NAME": "ゲシュタルト",
+    "DESCRIPTION": "hermit:不屈 2 を得る NL 弱体 !M! を得る NL 廃棄"
+  },
+  "hermit:RoundhouseKick": {
+    "NAME": "回し蹴り",
+    "DESCRIPTION": "敵全体に NL !D! ダメージを与える NL 攻撃を予定していない NL 敵を スタン させる NL 廃棄"
+  },
+  "hermit:CursedWeapon": {
+    "NAME": "呪われた武器",
+    "DESCRIPTION": "HPを !M! 失う NL !D! ダメージを与える NL このカードが与える値 NL が *永続的 に 3 増える NL 廃棄"
+  },
+  "hermit:Enervate": {
+    "NAME": "奪力",
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : NL エナジーを 1 得て NL 1 枚引く"
+  },
+  "hermit:Ricochet": {
+    "NAME": "跳弾",
+    "DESCRIPTION": "!D! ダメージを与える NL このターン発動した NL hermit:会心 の回数だけ NL ランダムな敵に NL 繰り返し攻撃する",
+    "EXTENDED_DESCRIPTION": [" NL ( !M! ", "回)","回)"]
+  },
+  "hermit:TrackingShot": {
+    "NAME": "　 トラッキングショット",
+    "DESCRIPTION": "hermit:集中 を得る NL !D! ダメージを与える"
+  },
+  "hermit:LoneWolf": {
+    "NAME": "一匹狼",
+    "DESCRIPTION": "手札から 1 枚選ぶ NL それは戦闘終了まで NL コストが 0 になる NL 残り手札を全て捨てる NL 廃棄"
+  },
+  "hermit:HighNoon": {
+    "NAME": "正午",
+    "DESCRIPTION": "*ストライク か *防御 NL をプレイするたび NL 1 枚引く"
+  },
+  "hermit:Reprieve": {
+    "NAME": "執行猶予",
+    "DESCRIPTION": "山札から任意の数の NL 呪い を 廃棄 する NL 廃棄 した枚数だけ NL HPを 4 回復する NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "山札に \r呪い がない。"
+    ]
+  },
+  "hermit:TakeAim": {
+    "NAME": "照準",
+    "DESCRIPTION": "ターン開始時 NL hermit:集中 を得る",
+    "UPGRADE_DESCRIPTION": "hermit:集中 を得る NL ターン開始時 NL hermit:集中 を得る"
+  },
+  "hermit:Magnum": {
+    "NAME": "マグナム",
+    "DESCRIPTION": "手札から 6 枚捨てる NL 捨てた枚数だけ NL !D! ダメージを与える"
+  },
+  "hermit:Determination": {
+    "NAME": "決意",
+    "DESCRIPTION": "デバフを受けるたび NL 筋力 1 を得る",
+    "UPGRADE_DESCRIPTION": "天賦 NL デバフを受けるたび NL 筋力 1 を得る"
+  },
+  "hermit:Showdown": {
+    "NAME": "ショーダウン",
+    "DESCRIPTION": "保留 NL !D! ダメージを与える NL 手札のすべての NL *ストライク をランダム NL な敵にプレイする"
+  },
+  "hermit:LuckOfTheDraw": {
+    "NAME": "運任せ",
+    "DESCRIPTION": "引いたカードのコスト NL の合計が !M! になるまで NL カードを引く"
+  },
+  "hermit:Coalescence": {
+    "NAME": "合体",
+    "DESCRIPTION": "このターンの間 NL 敏捷性 !M! を得る"
+  },
+  "hermit:PistolWhip": {
+    "NAME": "ピストル殴打",
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:傷 !M! を与える"
+  },
+  "hermit:DeadMansHand": {
+    "NAME": "死者の手",
+    "DESCRIPTION": "手札をすべて捨てる NL 山札からレアリティ NL が高い順に NL !M! 枚手札に加える"
+  },
+  "hermit:DeadOrAlive": {
+    "NAME": "生死を問わず",
+    "DESCRIPTION": "!D! ダメージを NL X 回与える NL 致命 時に hermit:懸賞金 を得る NL 廃棄"
+  },
+  "hermit:GoldenBullet": {
+    "NAME": "黄金の弾丸",
+    "DESCRIPTION": "!D! ダメージを与える NL 致命 時にこのカードの NL コストを永続的に NL 1 下げる NL 廃棄"
+  },
+  "hermit:HoleUp": {
+    "NAME": "潜伏",
+    "DESCRIPTION": "!B! ブロック を得る NL 脱力 !M! を得る"
+  },
+  "hermit:ItchyTrigger": {
+    "NAME": "疼く指先",
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : このターン NL 手札のランダムな NL カード 1 枚の NL コストが 0 になる"
+  },
+  "hermit:EyeOfTheStorm": {
+    "NAME": "台風の目",
+    "DESCRIPTION": "hermit:会心 : エナジーが NL 最大値まで回復する NL 廃棄",
+    "UPGRADE_DESCRIPTION": "1 枚引く NL hermit:会心 : エナジーが NL 最大値まで回復する NL 廃棄"
+  },
+  "hermit:FinalCanter": {
+    "NAME": "最後の一駆け",
+    "DESCRIPTION": "保留 NL 手札の 呪い の数だけ NL !D! ダメージを与える NL 廃棄",
+    "UPGRADE_DESCRIPTION": " NL ( 呪い を !M! 枚所持)"
+  },
+  "hermit:HeroicBravado": {
+    "NAME": "空威張り",
+    "DESCRIPTION": "エセリアル NL hermit:不屈 1 を得る NL この戦闘中このカード NL のコストが 1 上がる"
+  },
+  "hermit:FromBeyond": {
+    "NAME": "彼方より",
+    "DESCRIPTION": "廃棄 の枚数だけ NL ランダムな敵は NL HP !M! を失う"
+  },
+  "hermit:Virtue": {
+    "NAME": "美徳",
+    "DESCRIPTION": "自身にかかっている NL すべてのデバフの値 NL を !M! 減らす"
+  }
+}

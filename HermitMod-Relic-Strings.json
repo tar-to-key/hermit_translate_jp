@@ -1,0 +1,74 @@
+{
+  "hermit:Momento": {
+    "NAME": "古びたロケット",
+    "FLAVOR": "中には色あせた写真。",
+    "DESCRIPTIONS": [
+      "戦闘開始時に #y形見 を手札に加える。"
+    ]
+  },
+  "hermit:RyeStalk": {
+    "NAME": "ライ麦の茎",
+    "FLAVOR": "長い間噛み続けてもいまだ新鮮な状態を保っている。",
+    "DESCRIPTIONS": [
+      "攻撃しても #y傷 が減らなくなる。"
+    ]
+  },
+  "hermit:BartenderGlass": {
+    "NAME": "バーテンダーのグラス",
+    "FLAVOR": "中に注がれた液体は何か別のものに変化する。",
+    "DESCRIPTIONS": [
+      "戦闘中にポーションを使用した時、 ランダムなポーションを #b1 つ獲得する。 戦闘ごとに #b2 回まで発動できる。",
+      "この戦闘ではこれ以上ポーションを獲得できない。"
+    ]
+  },
+  "hermit:Horseshoe": {
+    "NAME": "蹄鉄",
+    "FLAVOR": "幸運のお守り。 誰かが困ることだろう。",
+    "DESCRIPTIONS": [
+      "#y脱力 か #y脆弱 か #y弱体 を受ける時、その値が #b1 減る。"
+    ]
+  },
+  "hermit:Spyglass": {
+    "NAME": "スパイグラス",
+    "FLAVOR": "ケスティン=ハイフィンの所有物。",
+    "DESCRIPTIONS": [
+      "#y集中 したままターンを終了した場合、次のターン開始時に [E] を得る。"
+    ]
+  },
+  "hermit:RedScarf": {
+    "NAME": "赤いスカーフ",
+    "FLAVOR": "暖かくてけばだっている。",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 山札のカードを #b7 枚まで捨てる。"
+    ]
+  },
+  "hermit:DentedPlate": {
+    "NAME": "へこんだ金属板",
+    "FLAVOR": "まだ内部に銃弾が。",
+    "DESCRIPTIONS": [
+      "HPが #b50% 以下になると、ターン開始時にエナジーを #b1 得て、カードを #b1 枚引く。"
+    ]
+  },
+  "hermit:PetGhost": {
+    "NAME": "ペットゴースト",
+    "FLAVOR": "ダメなヤツ。",
+    "DESCRIPTIONS": [
+      "戦闘不能時、 代わりにHP #b1 で生き残る。 次のターン終了時に死亡し、 それまでは死亡しない。"
+    ]
+  },
+  "hermit:CharredGlove": {
+    "NAME": "黒焦げのグローブ",
+    "FLAVOR": "グローブの一部はいまだ異世界の燃え殻で光っている。",
+    "DESCRIPTIONS": [
+      "#y呪い を引くたび、次のアタックが与える値が #b4 増える。"
+    ]
+  },
+  "hermit:ClaspedLocket": {
+    "NAME": "留め金付きロケット",
+    "FLAVOR": "もう開くことはないだろう。",
+    "DESCRIPTIONS": [
+      "#y古びたロケット と置き換える。 #y形見 を #b3 枚デッキに加える。",
+      "もう二度と..."
+    ]
+  }
+}

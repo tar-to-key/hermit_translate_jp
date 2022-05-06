@@ -1,0 +1,78 @@
+{
+"hermit:Concentration": {
+        "NAME": "集中",
+        "DESCRIPTIONS": ["次にプレイする #y会心 を持つカードの追加の効果を無条件で発動し #y集中 を失う。 #y集中 はターン終了時に解除される。"]
+},
+"hermit:HighNoonPower": {
+        "NAME": "正午",
+        "DESCRIPTIONS": ["#yストライク か #y防御 をプレイするたび、 カードを #b", " 枚引く。", " 枚引く。"]
+},
+"hermit:FatalDesirePower": {
+        "NAME": "致命的欲求",
+        "DESCRIPTIONS": ["ターン開始時、 カードを #b", " 枚引き、 #y負傷 を #b", " 枚手札に加える。", " 枚手札に加える。"]
+},
+"hermit:ShadowCloakPower": {
+        "NAME": "影の衣",
+        "DESCRIPTIONS": ["#y呪い を引くたび、 #b", " ブロック を得る。"]
+},
+"hermit:TakeAimPower": {
+        "NAME": "照準",
+        "DESCRIPTIONS": ["ターン開始時、 #y集中 を得る。"]
+},
+"hermit:AdaptPower": {
+        "NAME": "適応",
+        "DESCRIPTIONS": ["ターン終了時、 カードを #b2 枚まで #y廃棄 する。 この効果で #y廃棄 した数と同じ回数 #b", " #yブロック を得る。"]
+},
+"hermit:Bruise": {
+        "NAME": "傷",
+        "DESCRIPTIONS": ["#yアタック で受けるダメージが #b", " 増加する。 #y傷 は攻撃を受けるたび #b1 減少し、ターン終了時に解除される。"]
+},
+"hermit:HorrorPower": {
+        "NAME": "ホラー",
+        "DESCRIPTIONS": ["#y傷 が #b", " ターンの間解除されない。", " ターンの間解除されない。"]
+},
+"hermit:ComboPower": {
+        "NAME": "コンボ",
+        "DESCRIPTIONS": ["#y会心 を発動させるたび、 #y会心 を持つランダムなカードを #b", " 枚手札に加える。", " 枚手札に加える。"]
+},
+"hermit:BigShotPower": {
+        "NAME": "煙吹く銃身",
+        "DESCRIPTIONS": ["#y会心 を発動させるたび、次の #yアタック が与えるダメージ値が #b", " 増える。"]
+},
+"hermit:BrawlPower": {
+        "NAME": "乱闘",
+        "DESCRIPTIONS": ["ターン開始時、 敵全体に #y傷 #b", " を与える。"]
+},
+"hermit:Rugged": {
+        "NAME": "不屈",
+        "DESCRIPTIONS": [" #b", " 回までブロックしきれずに受けるダメージを #b1 に軽減する。", " #b1 回までブロックしきれずに受けるダメージを #b1 に軽減する。"]
+},
+"hermit:EternalPower": {
+        "NAME": "永久化",
+        "DESCRIPTIONS": ["このターンあと #b", " 枚のカードをコスト #b0 でプレイできる。", " 枚のカードをコスト #b0 でプレイできる。", "もうコスト #b0 ではプレイできない。"]
+},
+"hermit:OverwhelmingPowerPower": {
+        "NAME": "圧倒的な力",
+        "DESCRIPTIONS": ["エナジーが0の状態でターンを終了すると、HPを #b"," 失う。"]
+},
+"hermit:Bounty": {
+        "NAME": "懸賞金",
+        "DESCRIPTIONS": ["現在の懸賞金: "]
+},
+"hermit:Drained": {
+        "NAME": "枯渇",
+        "DESCRIPTIONS": ["次のターンに得られるエナジーが #b", " 減少する。"]
+},
+"hermit:DeterminationPower": {
+        "NAME": "決意",
+        "DESCRIPTIONS": ["デバフを受けるたび、 #y筋力 #b", " を得る。"]
+},
+"hermit:RyeStalkPower": {
+        "NAME": "ライ麦の茎",
+        "DESCRIPTIONS": ["このターン終了時、 任意の数のカードを #y保留 する。"]
+},
+"hermit:PetGhostPower": {
+        "NAME": "ペットゴースト",
+        "DESCRIPTIONS": ["死亡しない。", " 次のターン終了時に死亡する。", " このターン終了時に死亡する。"]
+}
+}
