@@ -1,0 +1,1 @@
+# hermit_translate_jp
