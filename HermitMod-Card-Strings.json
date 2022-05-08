@@ -9,7 +9,7 @@
   },
   "hermit:Snapshot": {
     "NAME": "スナップショット",
-    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : コストが 0 になる"
+    "DESCRIPTION": "!D! ダメージを与える NL hermit:会心 : !B! ブロック を得る"
   },
   "hermit:Desperado": {
     "NAME": "デスペラード",
@@ -44,12 +44,14 @@
   },
   "hermit:Snipe": {
     "NAME": "狙撃",
-    "DESCRIPTION": "hermit:集中 を得る NL このターンの間 NL 筋力 !M! を得る"
+    "DESCRIPTION": "このターン、次に発動する会心の効果は2回発動する。",
+    "UPGRADE_DESCRIPTION": "集中を得る。 NL このターン、次に発動する会心の効果は2回発動する。"
   },
   "hermit:CalledShot": {
     "NAME": "予告ショット",
     "DESCRIPTION": "手札の枚数だけ NL ダメージを与える NL hermit:会心 : !M! 枚引く",
-    "UPGRADE_DESCRIPTION": " NL ( !D! ダメージ)"
+    "UPGRADE_DESCRIPTION": " NL ( !D! ダメージ)",
+    "EXTENDED_DESCRIPTION": ["自分の手札のサイズと同じだけダメージを与える NL 会心: NL !M! 枚カードを引く"]
   },
   "hermit:Dissolve": {
     "NAME": "分解",
@@ -212,7 +214,8 @@
   },
   "hermit:FullyLoaded": {
     "NAME": "フルロード",
-    "DESCRIPTION": "山札からすべての NL *ストライク と *防御 NL を引く NL 廃棄"
+    "DESCRIPTION": "山札からすべての NL *ストライク と *防御 NL を引く NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 山札からすべての NL *ストライク と *防御 NL を引く NL 廃棄"
   },
   "hermit:Gestalt": {
     "NAME": "ゲシュタルト",
