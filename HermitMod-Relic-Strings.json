@@ -70,5 +70,33 @@
       "#y古びたロケット と置き換える。 #y形見 を #b3 枚デッキに加える。",
       "もう二度と..."
     ]
+  },
+  "hermit:StraightRazor": {
+    "NAME": "ストレート・レザー",
+    "FLAVOR": "よりきれいに剃るために...",
+    "DESCRIPTIONS": [
+      "自分のデッキからカードを取り除くたびに、#b15のHPを回復させる"
+    ]
+  },
+  "hermit:BrassTacks": {
+    "NAME": "真鍮鋲",
+    "FLAVOR": "この鋲の光沢は、決して色あせることはない",
+    "DESCRIPTIONS": [
+      "戦闘開始時に 金属化 #y を得る"
+    ]
+  },
+  "hermit:BlackPowder": {
+    "NAME": "黒色火薬",
+    "FLAVOR": "取扱注意",
+    "DESCRIPTIONS": [
+      "自分のターン終了時, すべての敵に会心の発動回数分のダメージを与える"
+    ]
+  },
+  "hermit:BloodyTooth": {
+    "NAME": "壊れた歯",
+    "FLAVOR": "人間の顎には大きすぎる...",
+    "DESCRIPTIONS": [
+      "エリートを倒すごとに, アクト開始の戦闘時に #b1 #y筋力 を獲得"
+    ]
   }
 }

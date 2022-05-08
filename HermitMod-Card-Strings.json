@@ -55,8 +55,7 @@
   },
   "hermit:Dissolve": {
     "NAME": "分解",
-    "DESCRIPTION": "捨て札 1 枚につき NL !M! ブロックを得る NL *腐敗 を 1 枚 NL 捨て札に加える",
-    "UPGRADE_DESCRIPTION": " NL ( !B! ブロック )"
+    "DESCRIPTION": "次のターン NL !B! ブロックを得る。 NL 廃棄。"
   },
   "hermit:BlackWind": {
     "NAME": "ブラックウィンド",
@@ -91,7 +90,7 @@
   },
   "hermit:Deadeye": {
     "NAME": "デッドアイ",
-    "DESCRIPTION": "!D! ダメージを与える NL 筋力 1 を得る NL 廃棄 NL hermit:会心 : 廃棄 されない"
+    "DESCRIPTION": "!D! ダメージを与える NL 廃棄 NL hermit:会心 : 筋力 !M! を得る"
   },
   "hermit:GhostlyPresence": {
     "NAME": "霊的存在",
@@ -239,7 +238,7 @@
     "EXTENDED_DESCRIPTION": [" NL ( !M! ", "回)","回)"]
   },
   "hermit:TrackingShot": {
-    "NAME": "　 トラッキングショット",
+    "NAME": "トラッキングショット",
     "DESCRIPTION": "hermit:集中 を得る NL !D! ダメージを与える"
   },
   "hermit:LoneWolf": {
@@ -311,7 +310,7 @@
     "NAME": "台風の目",
     "DESCRIPTION": "hermit:会心 : エナジーが NL 最大値まで回復する NL 廃棄",
     "UPGRADE_DESCRIPTION": "1 枚引く NL hermit:会心 : エナジーが NL 最大値まで回復する NL 廃棄"
-  },
+  }, 
   "hermit:FinalCanter": {
     "NAME": "最後の一駆け",
     "DESCRIPTION": "保留 NL 手札の 呪い の数だけ NL !D! ダメージを与える NL 廃棄",
@@ -319,7 +318,7 @@
   },
   "hermit:HeroicBravado": {
     "NAME": "空威張り",
-    "DESCRIPTION": "エセリアル NL hermit:不屈 1 を得る NL この戦闘中このカード NL のコストが 1 上がる"
+    "DESCRIPTION": "エセリアル NL hermit:不屈 1 を得る NL この戦闘中このカード NL のコストが !M! 上がる"
   },
   "hermit:FromBeyond": {
     "NAME": "彼方より",
